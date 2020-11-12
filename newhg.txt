@@ -1,0 +1,17 @@
+﻿{
+    "title": "移动url域名中心",
+    "list": [
+        {
+            "pid": "1",
+            "url": "https://m.365app11.com/"
+        },
+        {
+            "pid": "2",
+            "url": "https://m.365app22.com/"
+        },
+        {
+            "pid": "3",
+            "url": "https://m.365app33.com/"
+        }
+    ]
+}
